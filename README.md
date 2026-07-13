@@ -67,19 +67,19 @@ RSA_Project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rsa-cryptography-system.git
+git clone https://github.com/Lucy-Bentum/rsa-cryptography-system-v1.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd rsa-cryptography-system
+cd rsa
 ```
 
 Run the program:
 
 ```bash
-python rsa.py
+python rsa.py or py rsa.py
 ```
 
 ---
